@@ -1,0 +1,9 @@
+---
+title: "index"
+author: "Bgaither"
+date: "3/20/2020"
+output: html_document
+---
+
+#The simple yet awesome website
+## We'll knit this Rmd to an html file next
