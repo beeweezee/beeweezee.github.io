@@ -1,0 +1,21 @@
+---
+title: "About Me"
+author: "Bgaither"
+date: "3/20/2020"
+output: html_document
+---
+
+__About Me__
+
+__Name:__  Brian Gaither
+
+__Location:__  Dallas, TX
+
+__Interests:__  Data Science and Running
+
+__Where I work:__  Technology Company
+
+__Where I went to school:__  Private University
+
+
+The other tabs represent analysis I have completed.  Please check them out!

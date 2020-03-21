@@ -1,9 +1,13 @@
 ---
-title: "index"
-author: "Bgaither"
+title: "Doing Data Science Website"
+author: "Brian Gaither"
 date: "3/20/2020"
 output: html_document
 ---
 
-#The simple yet awesome website
-## We'll knit this Rmd to an html file next
+This website has a few of my research projects and shares a little info about me.
+
+__Enjoy!__
+
+<a href="https://dds-bgaither.shinyapps.io/Beer_Analysis/">ShinyApp for Beer Analysis can be found here</a>
+
